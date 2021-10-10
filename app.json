@@ -98,5 +98,6 @@
   "addons": [
     "heroku-postgresql",
     "heroku-redis"
-  ]
+  ],
+  "stack": "heroku-18"
 }
